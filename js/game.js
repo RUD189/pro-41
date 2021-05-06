@@ -59,7 +59,7 @@ class Game{
                          
                         fill("blue");
                         textSize(30);
-                        text(allPlayers[plr].name ,x-25,y+25);
+                        text(allPlayers[plr].name ,x-50,y+25);
 
                          
                      }
